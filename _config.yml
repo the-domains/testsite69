@@ -1,7 +1,7 @@
 name: TestSite69
 favicon: null
-layout_spectrum: 0.8417679031845182
-typography_spectrum: 0.7285970291122794
+layout_spectrum: 0.26487
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.794845148222521
+    - '#000000'
+    - '#4a4a4c'
+    - '#ffffff'
+    - '#6f6f71'
+    - '#500303'
+  brandStrength: 1
   lightness: 0.13762699835933745
   saturation: 0.9339450357947499
   rhythmicContrast: 0.00991292460821569
