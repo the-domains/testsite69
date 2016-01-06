@@ -1,0 +1,28 @@
+name: TestSite69
+favicon: null
+layout_spectrum: 0.8417679031845182
+typography_spectrum: 0.7285970291122794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.794845148222521
+  lightness: 0.13762699835933745
+  saturation: 0.9339450357947499
+  rhythmicContrast: 0.00991292460821569
+purpose: []
